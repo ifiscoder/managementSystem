@@ -1,0 +1,16 @@
+INSERT INTO `books` (`id`, `name`, `desc`, `author`, `availability`, `edition`, `count`) VALUES ('1', 'attack on titan', 'dfgdfg', 'kasish', '1', '1', '5');
+INSERT INTO `books` (`id`, `name`, `desc`, `author`, `availability`, `edition`, `count`) VALUES ('2', 'attack on titan', 'dfgdfg', 'kasish', '1', '1', '5');
+INSERT INTO `books` (`id`, `name`, `desc`, `author`, `availability`, `edition`, `count`) VALUES ('3', 'attack on titan', 'dfgdfg', 'kasish', '1', '1', '5');
+INSERT INTO `books` (`id`, `name`, `desc`, `author`, `availability`, `edition`, `count`) VALUES ('4', 'attack on titan', 'dfgdfg', 'kasish', '1', '1', '5');
+INSERT INTO `books` (`id`, `name`, `desc`, `author`, `availability`, `edition`, `count`) VALUES ('5', 'attack on titan', 'dfgdfg', 'kasish', '1', '1', '5');
+INSERT INTO `books` (`id`, `name`, `desc`, `author`, `availability`, `edition`, `count`) VALUES ('6', 'attack on titan', 'dfgdfg', 'kasish', '1', '1', '5');
+INSERT INTO `books` (`id`, `name`, `desc`, `author`, `availability`, `edition`, `count`) VALUES ('7', 'attack on titan', 'dfgdfg', 'kasish', '1', '1', '5');
+INSERT INTO `books` (`id`, `name`, `desc`, `author`, `availability`, `edition`, `count`) VALUES ('8', 'attack on titan', 'dfgdfg', 'kasish', '1', '1', '5');
+INSERT INTO `books` (`id`, `name`, `desc`, `author`, `availability`, `edition`, `count`) VALUES ('9', 'attack on titan', 'dfgdfg', 'kasish', '1', '1', '5');
+INSERT INTO `books` (`id`, `name`, `desc`, `author`, `availability`, `edition`, `count`) VALUES ('10', 'attack on titan', 'dfgdfg', 'kasish', '1', '1', '5');
+INSERT INTO `books` (`id`, `name`, `desc`, `author`, `availability`, `edition`, `count`) VALUES ('11', 'attack on titan', 'dfgdfg', 'kasish', '1', '1', '5');
+INSERT INTO `books` (`id`, `name`, `desc`, `author`, `availability`, `edition`, `count`) VALUES ('12', 'attack on titan', 'dfgdfg', 'kasish', '1', '1', '5');
+INSERT INTO `books` (`id`, `name`, `desc`, `author`, `availability`, `edition`, `count`) VALUES ('13', 'attack on titan', 'dfgdfg', 'kasish', '1', '1', '5');
+INSERT INTO `books` (`id`, `name`, `desc`, `author`, `availability`, `edition`, `count`) VALUES ('14', 'attack on titan', 'dfgdfg', 'kasish', '1', '1', '5');
+INSERT INTO `books` (`id`, `name`, `desc`, `author`, `availability`, `edition`, `count`) VALUES ('15', 'attack on titan', 'dfgdfg', 'kasish', '1', '1', '5');
+INSERT INTO `books` (`id`, `name`, `desc`, `author`, `availability`, `edition`, `count`) VALUES ('16', 'attack on titan', 'dfgdfg', 'kasish', '1', '1', '5');
